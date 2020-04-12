@@ -1,0 +1,6 @@
+__pycache__/*
+.idea/*
+screenshots/*
+store_data.txt
+venv/
+furniture.sqlite
